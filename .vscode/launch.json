@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BubavanbackApplication<bubavanback>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "es.gema.bubavanback.BubavanbackApplication",
+            "projectName": "bubavanback",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

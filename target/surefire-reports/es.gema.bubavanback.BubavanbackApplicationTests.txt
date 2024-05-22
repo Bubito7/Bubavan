@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.gema.bubavanback.BubavanbackApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.782 s -- in es.gema.bubavanback.BubavanbackApplicationTests

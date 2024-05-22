@@ -1,0 +1,11 @@
+es\gema\bubavanback\controller\PlazaController.class
+es\gema\bubavanback\repository\PlazaRepository.class
+es\gema\bubavanback\controller\ReservaController.class
+es\gema\bubavanback\model\Plaza.class
+es\gema\bubavanback\model\Reserva.class
+es\gema\bubavanback\service\ReservaService.class
+es\gema\bubavanback\WebAppController.class
+es\gema\bubavanback\repository\ReservaRepository.class
+es\gema\bubavanback\service\PlazaService.class
+es\gema\bubavanback\BubavanbackApplication.class
+es\gema\bubavanback\config\WebConfig.class
